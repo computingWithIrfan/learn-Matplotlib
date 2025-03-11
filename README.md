@@ -21,4 +21,4 @@ Welcome to the **Matplotlib Learning Repository**! This repo is designed to help
 
 ### 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/your-username/matplotlib-learning.git
+git clone https://github.com/computingWithIrfan/learn-Matplotlib.git
